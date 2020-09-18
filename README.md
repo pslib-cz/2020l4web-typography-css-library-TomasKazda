@@ -13,6 +13,12 @@ Stačí připojit styl pomocí `<link href="typo.css />"`
   </body
 ```
     
+```
+  .neco > p {
+    color: red;
+  }
+```
+
 ## Usage
 ...
 ## Components
