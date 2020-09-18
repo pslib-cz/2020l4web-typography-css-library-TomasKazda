@@ -7,6 +7,12 @@ Link to **[demo](http://www.github.io)** site for preview.
 ## Implementation
 Stačí připojit styl pomocí `<link href="typo.css />"`
 
+```html
+  <body class="neco">
+    <p>Ahoj světe</p>
+  </body
+```
+    
 ## Usage
 ...
 ## Components
