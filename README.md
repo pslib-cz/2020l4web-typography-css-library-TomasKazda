@@ -19,6 +19,8 @@ Stačí připojit styl pomocí `<link href="typo.css />"`
   }
 ```
 
+![Menzel při roznovoru](menzel.jpg)
+
 ## Usage
 ...
 ## Components
