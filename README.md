@@ -19,7 +19,7 @@ Stačí připojit styl pomocí `<link href="typo.css />"`
   }
 ```
 
-![Menzel při roznovoru](./menzel.jpg){:height="200px" width="300px"}
+![Menzel při roznovoru](./menzel.jpg)
 
 ## Usage
 ...
